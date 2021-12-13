@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #fd951f;
+  --primary-color: #1fe7fd;
   --background-color: #130f0d;
   --text-color: #f0f0f5;
   --light-color: rgba (255, 255, 255, 0.04);
@@ -37,8 +37,6 @@ form {
 
   display: flex;
   flex-direction: column;
-
-  animation: fade 1s;
 }
 
 form h2 {
